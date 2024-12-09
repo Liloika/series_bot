@@ -1,0 +1,12 @@
+myenv/
+venv/
+
+__pycache__/
+*.py[cod]
+
+*.log
+
+config.json
+
+*.tmp
+.DS_Store

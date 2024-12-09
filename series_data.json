@@ -1,0 +1,6 @@
+{
+    "фантастика": ["https://www.kinopoisk.ru/lists/movies/genre--sci-fi/?b=top&utm_referrer=www.google.com", "https://www.film.ru/a-z/movies/science_fiction", "https://www.kinoafisha.info/rating/movies/sci-fi/"],
+    "драма": ["https://www.film.ru/a-z/movies/drama", "https://www.kinopoisk.ru/lists/movies/genre--drama/?b=films", "https://www.kinoafisha.info/rating/movies/drama/"],
+    "комедия": ["https://www.kinopoisk.ru/lists/movies/genre--comedy/?b=films", "https://www.film.ru/a-z/movies/comedy", "https://journal.tinkoff.ru/list/best-comedies-ever/"],
+    "романтика": ["https://www.kinopoisk.ru/lists/movies/theme_love/", "https://www.afisha.ru/selection/luchshie-filmy-pro-lyubov/", "https://www.mvideo.ru/blog/podborki/30-luchshih-romanticheskih-filmov?utm_source=google&utm_medium=organic&utm_campaign=google&utm_referrer=google"]
+}
