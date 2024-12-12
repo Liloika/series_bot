@@ -1,6 +1,164 @@
 {
-    "фантастика": ["https://www.kinopoisk.ru/lists/movies/genre--sci-fi/?b=top&utm_referrer=www.google.com", "https://www.film.ru/a-z/movies/science_fiction", "https://www.kinoafisha.info/rating/movies/sci-fi/"],
-    "драма": ["https://www.film.ru/a-z/movies/drama", "https://www.kinopoisk.ru/lists/movies/genre--drama/?b=films", "https://www.kinoafisha.info/rating/movies/drama/"],
-    "комедия": ["https://www.kinopoisk.ru/lists/movies/genre--comedy/?b=films", "https://www.film.ru/a-z/movies/comedy", "https://journal.tinkoff.ru/list/best-comedies-ever/"],
-    "романтика": ["https://www.kinopoisk.ru/lists/movies/theme_love/", "https://www.afisha.ru/selection/luchshie-filmy-pro-lyubov/", "https://www.mvideo.ru/blog/podborki/30-luchshih-romanticheskih-filmov?utm_source=google&utm_medium=organic&utm_campaign=google&utm_referrer=google"]
+    "фантастика": [        {
+        "title": "Аватар, 2009г.",
+        "link": "https://example.com/movie1"
+      },
+      {
+        "title": "Интерстеллар, 2014г.",
+        "link": "https://example.com/movie2"
+      },
+      {
+        "title": "Начало, 2010г.",
+        "link": "https://example.com/movie3"
+      },
+      {
+        "title": "Мстители: Война бесконечности, 2018г.",
+        "link": "https://example.com/movie4"
+      },
+      {
+        "title": "Мстители: Финал, 2019г.",
+        "link": "https://example.com/movie5"
+      },
+      {
+        "title": "Дюна, 2021г.",
+        "link": "https://example.com/movie6"
+      },
+      {
+        "title": "Старжи Галактики, 2014г.",
+        "link": "https://example.com/movie7"
+      },
+      {
+        "title": "Матрица, 1999г.",
+        "link": "https://example.com/movie8"
+      },
+      {
+        "title": "Тёмный рыцарь, 2008г.",
+        "link": "https://example.com/movie9"
+      },
+      {
+        "title": "Доктор Стрендж, 2016г.",
+        "link": "https://example.com/movie10"
+      }],
+    "драма": [        {
+        "title": "1+1, 2011г.",
+        "link": "https://example.com/movie1"
+      },
+      {
+        "title": "Брат, 1997г.",
+        "link": "https://example.com/movie2"
+      },
+      {
+        "title": "Волк с Уолл-стрит, 2013г.",
+        "link": "https://example.com/movie3"
+      },
+      {
+        "title": "Побег из Шоушенка, 1994г.",
+        "link": "https://example.com/movie4"
+      },
+      {
+        "title": "Зелёная миля, 1999г.",
+        "link": "https://example.com/movie5"
+      },
+      {
+        "title": "Форест Гамп, 1994г.",
+        "link": "https://example.com/movie6"
+      },
+      {
+        "title": "Достучаться до небес, 1997г.",
+        "link": "https://example.com/movie7"
+      },
+      {
+        "title": "Паразиты, 2019г.",
+        "link": "https://example.com/movie8"
+      },
+      {
+        "title": "Т-34, 2018г.",
+        "link": "https://example.com/movie9"
+      },
+      {
+        "title": "Хатико: Самый верный друг, 2008г.",
+        "link": "https://example.com/movie10"
+      }],
+    "комедия": [
+        {
+          "title": "Один дома, 1990г.",
+          "link": "https://example.com/movie1"
+        },
+        {
+          "title": "Холоп 2, 2023г.",
+          "link": "https://example.com/movie2"
+        },
+        {
+          "title": "Иван Васильевич меняют профессию, 1973г.",
+          "link": "https://example.com/movie3"
+        },
+        {
+          "title": "Холоп, 2019г.",
+          "link": "https://example.com/movie4"
+        },
+        {
+          "title": "Операция 'Ы' ил идругие прикоючения Шурика, 1965г.",
+          "link": "https://example.com/movie5"
+        },
+        {
+          "title": "Батя, 2020г.",
+          "link": "https://example.com/movie6"
+        },
+        {
+          "title": "Джентельмены удачи, 1971г.",
+          "link": "https://example.com/movie7"
+        },
+        {
+          "title": "Бриллиантовая рука, 1968г.",
+          "link": "https://example.com/movie8"
+        },
+        {
+          "title": "Кавказская пленница, или Новые приключния Шурика, 1966г.",
+          "link": "https://example.com/movie9"
+        },
+        {
+          "title": "Один дома 2: затерянный в Нью-Йорке, 1992г.",
+          "link": "https://example.com/movie10"
+        }
+      ],
+      "романтика": [        {
+        "title": "Жизнь прекрасна, 1997г.",
+        "link": "https://example.com/movie1"
+      },
+      {
+        "title": "В джазе только девушки, 1959г.",
+        "link": "https://example.com/movie2"
+      },
+      {
+        "title": "Унесённые ветром, 1939г.",
+        "link": "https://example.com/movie3"
+      },
+      {
+        "title": "Титаник, 1997г.",
+        "link": "https://example.com/movie4"
+      },
+      {
+        "title": "Римские каникулы, 1953г.",
+        "link": "https://example.com/movie5"
+      },
+      {
+        "title": "Дневник памяти, 2004г.",
+        "link": "https://example.com/movie6"
+      },
+      {
+        "title": "Как украсть миллион, 1966г.",
+        "link": "https://example.com/movie7"
+      },
+      {
+        "title": "Вам и не снилось..., 1980г.",
+        "link": "https://example.com/movie8"
+      },
+      {
+        "title": "Приведение, 1990г.",
+        "link": "https://example.com/movie9"
+      },
+      {
+        "title": "Завтрак у Тиффани, 1961г.",
+        "link": "https://example.com/movie10"
+      }]
 }
